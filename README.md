@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ayushh077/leetcode-submission/tree/master/0242-valid-anagram) |
+| [2409-count-days-spent-together](https://github.com/Ayushh077/leetcode-submission/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ayushh077/leetcode-submission/tree/master/0048-rotate-image) |
+| [2409-count-days-spent-together](https://github.com/Ayushh077/leetcode-submission/tree/master/2409-count-days-spent-together) |
 ## Matrix
 |  |
 | ------- |
