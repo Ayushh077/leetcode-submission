@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ayushh077/leetcode-submission/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Ayushh077/leetcode-submission/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Ayushh077/leetcode-submission/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
