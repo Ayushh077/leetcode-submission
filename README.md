@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushh077/leetcode-submission/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Ayushh077/leetcode-submission/tree/master/0061-rotate-list) |
 | [0707-design-linked-list](https://github.com/Ayushh077/leetcode-submission/tree/master/0707-design-linked-list) |
 ## Design
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushh077/leetcode-submission/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Ayushh077/leetcode-submission/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
