@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayushh077/leetcode-submission/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayushh077/leetcode-submission/tree/master/0242-valid-anagram) |
 | [2409-count-days-spent-together](https://github.com/Ayushh077/leetcode-submission/tree/master/2409-count-days-spent-together) |
 ## Sorting
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ayushh077/leetcode-submission/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Ayushh077/leetcode-submission/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushh077/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
