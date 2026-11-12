@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ayushh077/leetcode-submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ayushh077/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushh077/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushh077/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
